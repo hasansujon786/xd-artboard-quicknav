@@ -18,7 +18,7 @@
             "type": "menu",
             "label": "Artboard Quick Navigate",
             "commandId": "quickNav",
-            "shortcut": { "mac": "Cmd+Opt+O", "win": "Ctrl+Alt+O" }
+            "shortcut": { "mac": "Cmd+Opt+O", "win": "Ctrl+P" }
         }
     ]
 }
